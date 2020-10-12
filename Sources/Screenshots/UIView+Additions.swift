@@ -11,7 +11,7 @@ extension UIView {
 
         context.translateBy(x: -croppingRect.origin.x, y: -croppingRect.origin.y)
         self.layoutIfNeeded()
-        self.layer.render(in: context!)
+        self.layer.render(in: context)
 
         let screenshotImage = UIGraphicsGetImageFromCurrentImageContext()
         UIGraphicsEndImageContext()
