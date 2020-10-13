@@ -1,5 +1,7 @@
 # Screenshots
 
+![Screenshots](screenshots.png)
+
 This library is build to take full screenshots from your App. It has UIView/UITableView/UIScrollView Extension to get really easy, smart and instant screenshot images.
 
 Its based on [DHSmartScreenshot](https://github.com/davidman/DHSmartScreenshot), work by [davidman](https://github.com/davidman)
